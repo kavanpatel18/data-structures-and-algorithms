@@ -1,33 +1,14 @@
-<h1 align="center">Data Structures And Algorithms</h1>
+# ⚡ Data Structures & Algorithms in C/C++
 
-<div align="center">
-  ![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=c++&logoColor=white) 
-</div>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 📌 Description
-A modern, well-structured repository for Data Structures And Algorithms. 
-This project focuses on writing clean, efficient, and well-organized code.
+A high-performance repository of fundamental data structures and critical pathfinding algorithms implemented purely in C and C++. This repository focuses on memory-managed, low-level execution without abstract standard libraries.
 
-## 🚀 Getting Started
+## 🧠 Solved Architectures
+- **Trees & Graphs**: Binary Search Trees, Adjacency Matrix & List generation mapping.
+- **Advanced Traversals**: Breadth-First Search (BFS) queues and Depth-First Search (DFS) stack execution.
+- **Pathing Matrices**: Dijkstra's Shortest Path, Kruskal’s Minimum Spanning Tree, and Prim's algorithm operations.
+- **Linked Linear Memory**: Singly Linked Lists, Doubly Linked Lists, and Circular List pointer manipulations.
+- **Sorting Mechanisms**: Merge Sort, Insertion Sort, Bubble Sort, Linear/Binary Searching logic.
 
-### Prerequisites
-Make sure you have the required environment installed for the primary language:
-- C, C++
-
-### Installation
-Clone the repository:
-```bash
-git clone https://github.com/kavanpatel18/data-structures-and-algorithms.git
-cd data-structures-and-algorithms
-```
-
-## 📂 Repository Structure
-*The file structure is organized for clarity and best practices.*
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-<div align="center">
-  <br/>
-  <b>Made with ❤️ by Kavan Patel</b>
-</div>
+Compile any file natively via `gcc` to execute the memory structures locally.
